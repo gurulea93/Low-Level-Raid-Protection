@@ -1,0 +1,6 @@
+// Prevent Low Level Raiding
+ExileClient_action_stealFlag_condition = "Custom\PreventLowLevelRaiding\ExileClient_action_stealFlag_condition.sqf";
+ExileClient_action_grindLock_condition = "Custom\PreventLowLevelRaiding\ExileClient_action_grindLock_condition.sqf";
+ExileClient_action_hackLock_condition = "Custom\PreventLowLevelRaiding\ExileClient_action_hackLock_condition.sqf";
+ExileClient_action_hotwireVehicle_condition = "Custom\PreventLowLevelRaiding\ExileClient_action_hotwireVehicle_condition.sqf";
+ExileServer_system_breaching_network_breachingStart = "Custom\PreventLowLevelRaiding\ExileServer_system_breaching_network_breachingStart.sqf";
