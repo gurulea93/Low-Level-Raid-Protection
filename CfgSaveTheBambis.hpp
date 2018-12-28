@@ -8,4 +8,7 @@ class CfgSaveTheBambis
 	
 	// No more protection from this level onwards, You're a big kid now!!
 	stopProtectionLevel = 3;	
+	
+	// Only protect base for this number of days
+    	stopProtectionAfterDays = 15;
 };
