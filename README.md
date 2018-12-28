@@ -12,7 +12,7 @@ Copy the contents of CfgSaveTheBambis.hpp to the top of your mission file config
 
 Open exile.ini an add 
 
-for x32
+//////////////for x32
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;  Territory Protection Expire Count
@@ -23,7 +23,7 @@ Number of Inputs = 1
 SQL1_INPUTS = 1
 OUTPUT = 1
 
-for x64
+/////////////////for x64
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;  Territory Protection Expire Count
