@@ -10,5 +10,5 @@ class CfgSaveTheBambis
 	stopProtectionLevel = 3;	
 	
 	// Only protect base for this number of days
-    	stopProtectionAfterDays = 15;
+    	stopProtectionAfterDays = 15;       ////////geekm0nkey version
 };
